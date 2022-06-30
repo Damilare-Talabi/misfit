@@ -1,0 +1,63 @@
+
+.about-first{
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+    font-size: 220px;
+    text-align: center;
+    letter-spacing: -.04em;
+    padding-top: 150px;
+    color: #5f8db2;
+    
+}
+.hero-about{
+    background: #f4f7fa; 
+    
+}
+.about-sub-content{
+    padding-left: 340px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+.about-move{
+    padding-left: 150px;
+    padding-top: -10px;
+}
+.unlabelled{
+    padding-left: 150px;
+    padding-top: -10px;
+    
+}
+.misfit-change{
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Macondo', cursive;
+}
+.packages{
+font-weight:bold;
+font-style: italic;
+color: #5f8db2;
+}
+
+hr{
+   width: 180px; 
+   margin-left: 600px;
+   margin-top: -20px;
+   border: 1.5px solid #0b5b9d;
+}
+.misfit-change{
+    color: #5f8db2;
+}
+
+.first-col{
+
+    margin-top: 100px;
+}
+
+.restrictions{
+    padding-left: 50px;
+}
+
+
+
+
